@@ -1,16 +1,7 @@
-# aamchi_mumbai_app
+# Aamchi Mumbai
 
-A new Flutter project.
+Mumbai (English: /mʊmˈbaɪ/, Marathi: [ˈmumbəi]; formerly known as Bombay /bɒmˈbeɪ/, the official name until 1995) is the capital city of the Indian state of Maharashtra. According to the United Nations, as of 2018, Mumbai is the second-most populous city in the country after Delhi and the seventh-most populous city in the world with a population of roughly 20 million.[13] As per Indian government population census of 2011, Mumbai was the most populous city in India with an estimated city proper population of 12.5 million living under Municipal Corporation of Greater Mumbai.[14] Mumbai is the centre of the Mumbai Metropolitan Region, the sixth most populous metropolitan area in the world with a population of over 23 million.[15] Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city.[16][17] It has the highest number of millionaires and billionaires among all cities in India.[18][19] Mumbai is home to three UNESCO World Heritage Sites: the Elephanta Caves, Chhatrapati Shivaji Maharaj Terminus, and the city's distinctive ensemble of Victorian and Art Deco buildings.[20][21]
 
-## Getting Started
+The seven islands that constitute Mumbai were originally home to communities of Marathi language speaking Koli people.[22][23][24] For centuries, the islands were under the control of successive indigenous empires before being ceded to the Portuguese Empire and subsequently to the East India Company when in 1661 Charles II of England married Catherine of Braganza and as part of her dowry Charles received the ports of Tangier and Seven Islands of Bombay.[25] During the mid-18th century, Bombay was reshaped by the Hornby Vellard project,[26] which undertook reclamation of the area between the seven islands from the sea.[27] Along with construction of major roads and railways, the reclamation project, completed in 1845, transformed Bombay into a major seaport on the Arabian Sea. Bombay in the 19th century was characterised by economic and educational development. During the early 20th century it became a strong base for the Indian independence movement. Upon India's independence in 1947 the city was incorporated into Bombay State. In 1960, following the Samyukta Maharashtra Movement, a new state of Maharashtra was created with Bombay as the capital.[28]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mumbai is the financial, commercial,[29] and the entertainment capital of India. It is also one of the world's top ten centres of commerce in terms of global financial flow,[30] generating 6.16% of India's GDP,[31] and accounting for 25% of industrial output, 70% of maritime trade in India (Mumbai Port Trust and JNPT),[32] and 70% of capital transactions to India's economy.[33][34] Mumbai has the eighth-highest number of billionaires of any city in the world,[35] and Mumbai's billionaires had the highest average wealth of any city in the world in 2008.[36][37] The city houses important financial institutions and the corporate headquarters of numerous Indian companies and multinational corporations. It is also home to some of India's premier scientific and nuclear institutes. The city is also home to Bollywood and Marathi cinema industries. Mumbai's business opportunities attract migrants from all over India.
